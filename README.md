@@ -1,2 +1,2 @@
 # cs3240-labdemo
-yo
+Hello world Python implementation
